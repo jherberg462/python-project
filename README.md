@@ -1,7 +1,6 @@
-# python-project
-This is our group's python project: Trends about Trending YouTube Videos
+# Trends about Trending YouTube Videos
 
-Please run the code in the following order: get_data_into_single_csv.ipynb, cleanup2.ipynb, cleandata_dateissue.ipynb, the rest of the files. Thank you.
+Please run the code in the following order: get_data_into_single_csv.ipynb, cleanup2.ipynb, cleandata_dateissue.ipynb, the rest of the files. Thank you. The various plots and charts are in the Jupyter Notebooks. 
 
 - Per Capita Views: Great Britain has the highest number, 1241, and Japan has the lowest one at  views per person.
 
