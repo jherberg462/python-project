@@ -1,5 +1,7 @@
 # Trends about Trending YouTube Videos
 
+This goal of this project was to look for trends and anomalies among trending videos on YouTube. After choosing our dataset, we removed data that we decided would not be useful to provide insights, cleaned the data, and combined the data into a single CSV file. Once the data was combed into a CSV file, each group member could look for interesting and useful insights from the data.   
+
 Please run the code in the following order: get_data_into_single_csv.ipynb, cleanup2.ipynb, cleandata_dateissue.ipynb, the rest of the files. Thank you. The various plots and charts are in the Jupyter Notebooks. 
 
 - Per Capita Views: Great Britain has the highest number, 1241, and Japan has the lowest one at  views per person.
