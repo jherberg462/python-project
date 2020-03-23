@@ -17,6 +17,10 @@ https://github.com/jherberg462/python-project/blob/master/data/cleaned_data.csv 
 
 4. Does the ratio of likes to dislikes affect how many views a treding video gets? 
 
+### Tasks:
+
+1. Download files from kaggle and put them in a folder titled 'source_csv_files' in the root folder
+
 Please run the code in the following order: get_data_into_single_csv.ipynb, cleanup2.ipynb, cleandata_dateissue.ipynb, the rest of the files. Thank you. The various plots and charts are in the Jupyter Notebooks. 
 
 - Per Capita Views: Great Britain has the highest number, 1241, and Japan has the lowest one at  views per person.
