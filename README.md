@@ -19,9 +19,27 @@ https://github.com/jherberg462/python-project/blob/master/data/cleaned_data.csv 
 
 ### Tasks:
 
-1. Download files from kaggle and put them in a folder titled 'source_csv_files' in the root folder
+1. Download files from kaggle and put them in a folder titled 'source_csv_files' in the root folder.
 
-Please run the code in the following order: get_data_into_single_csv.ipynb, cleanup2.ipynb, cleandata_dateissue.ipynb, the rest of the files. Thank you. The various plots and charts are in the Jupyter Notebooks. 
+2. Collaberate with the group and decide which columns we agree will not look at. 
+
+3. Load CSV files into Pandas DataFrames, combine DataFrames into a single DataFrame, and save as a single CSV file.
+
+4. Collabertae with the group and decide which rows we want to exclude from our analysis
+
+5. Clean data to conform with the agreed upon criteria in step 4 above.
+
+6. Reformat dates in our dataset into datetime objects that are uniform format. 
+
+7. Collaberate with group to decide what questions we want to answer, and assign roles. 
+
+8. Each group member performs individual analysis depending on their assigned role. 
+
+#### To reproduce the analysis results:
+
+Run the code in the following order: get_data_into_single_csv.ipynb, cleanup2.ipynb, cleandata_dateissue.ipynb, the rest of the files. The various plots and charts are in the Jupyter Notebooks. 
+
+### Results:
 
 - Per Capita Views: Great Britain has the highest number, 1241, and Japan has the lowest one at  views per person.
 
