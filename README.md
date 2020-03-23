@@ -13,9 +13,11 @@ https://github.com/jherberg462/python-project/blob/master/data/cleaned_data.csv 
 
 2. What percentage of likes do trending videos tend to receive among likes/dislikes in selected major countries?
 
-3. How many comments do trending videos tend to receive? 
+3. How many videos in each video category were trending, and how long did videos in each category tend to trend? 
 
-4. Does the ratio of likes to dislikes affect how many views a treding video gets? 
+4. How many comments do trending videos tend to receive? 
+
+5. Does the ratio of likes to dislikes affect how many views a treding video gets? 
 
 ### Tasks:
 
