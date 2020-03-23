@@ -57,3 +57,6 @@ Run the code in the following order: get_data_into_single_csv.ipynb, cleanup2.ip
 
 
 - Number of videos trending in each country: the videos got a similar number on each of the countries we use for our analysis, except for South Korea and Japan.
+
+### Contrubutors 
+Jeremiah Herberg, Christian Suchite, Jenniffer Lockwood, and Richard Hamilton
